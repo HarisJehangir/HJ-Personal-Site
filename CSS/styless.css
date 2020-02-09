@@ -1,0 +1,128 @@
+body {
+  background-color: #d4d7dd;
+  margin: 0;
+  text-align: center;
+  font-family: verdana, sans-serif;
+}
+
+img {
+  margin-top: 0;
+}
+
+p {
+  color: #40514E;
+  width: 50%;
+  margin: 50px auto;
+  font-size: 120%;
+  line-height: 1.5;
+}
+
+h1 {
+  color: #2c7873
+}
+
+h2 {
+  color: #11999E
+}
+
+h3 {
+  color: #40bfc1;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #e5dfdf;
+  border-width: 8px;
+  width: 8%;
+}
+
+a {
+margin: 0 10px;
+}
+
+.top-container {
+  background-image: url("background-container1.png");
+  background-size: cover;
+  height: 904px;
+  ;
+}
+
+.middle-container {
+  background-color: #ecf4f3;
+  padding: 0;
+  margin: 0;
+}
+
+.bottom-container {
+  background-color: #e1f2fb;
+  margin: 0;
+  height: 130px;
+  padding-top: 50px;
+}
+
+.frontend {
+  width: 50%;
+  margin: 100px auto;
+}
+
+.react {
+  width: 50%;
+  margin: 100px auto;
+}
+
+
+
+.inline-block {
+  display: inline-block;
+}
+
+.contact-me {
+  padding-bottom: 50px;
+
+}
+
+.myButton {
+	background-color:#44c767;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:20px;
+	padding:16px 30px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #2f6627;
+}
+.myButton:hover {
+	background-color:#66BFBF;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+.footer-link {
+	box-shadow: 3px 4px 0 0 #899599;
+	background-color:#e4f9ff;
+	border-radius:15px;
+	border:1px solid #d6bcd6;
+	display:inline-block;
+	cursor:pointer;
+	color:#3a8a9e;
+	font-size:17px;
+	padding:7px 25px;
+  text-decoration:none;
+	text-shadow:0 1px 0 #e1e2ed;
+}
+.footer-link:hover {
+	background:linear-gradient(to bottom, #EAF6F6 5%, #ededed 100%);
+	background-color:#EAF6F6;
+}
+.footer-link:active {
+	position:relative;
+	top:1px;
+}
